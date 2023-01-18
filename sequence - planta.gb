@@ -1,0 +1,89 @@
+LOCUS       KF591508                1891 bp    DNA     linear   PLN 11-DEC-2013
+DEFINITION  Trevesia palmata voucher US:Jun Wen 5669 NADH dehydrogenase subunit
+            F (ndhF) gene, partial cds; chloroplast.
+ACCESSION   KF591508
+VERSION     KF591508.1
+KEYWORDS    .
+SOURCE      chloroplast Trevesia palmata
+  ORGANISM  Trevesia palmata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Apiales; Araliaceae; Trevesia.
+REFERENCE   1  (bases 1 to 1891)
+  AUTHORS   Valcarcel,V., Fiz-Palacios,O. and Wen,J.
+  TITLE     The origin of the early differentiation of Ivies (Hedera L.) and
+            the radiation of the Asian Palmate group (Araliaceae)
+  JOURNAL   Mol. Phylogenet. Evol. 70, 492-503 (2014)
+   PUBMED   24184542
+REFERENCE   2  (bases 1 to 1891)
+  AUTHORS   Valcarcel,V., Fiz-Palacios,O. and Wen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2013) Biology, Universidad Autonoma de Madrid,
+            C./ Darwin, N Masculine2, Edfi. Biologia (Botanica). Campus
+            Cantoblanco, Madrid 28049, Spain
+FEATURES             Location/Qualifiers
+     source          1..1891
+                     /organism="Trevesia palmata"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="US:Jun Wen 5669"
+                     /db_xref="taxon:46421"
+                     /country="China: Yunnan"
+                     /collected_by="J. Wen"
+                     /note="authority: Trevesia palmata (Roxb. Ex Lindley)
+                     Visiani"
+     gene            <1..>1891
+                     /gene="ndhF"
+     CDS             <1..>1891
+                     /gene="ndhF"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NADH dehydrogenase subunit F"
+                     /protein_id="AHB62690.1"
+                     /translation="VPMLIGVGLLLFPTATKNIRRMWAFQSILLLSIVMIFSINLSIQ
+                     QINSSSIYQYVWSWIINNDFSLEFGYLIDPLTSIMSILITTVGIVVLVYSDNYMSHDQ
+                     GYLRFFAYMSFFSTSMLGLVTSSNLIQIYIFWELVGMCSYLLIGFWFTRPVAANACQK
+                     AFVTNRVGDFGLLLGILGFYWITGSFEFRDLFKIFSNLIYNNEVNFLFVTLCAVLLFA
+                     GAVAKSAQFPLHVWLPDAMEGPTPISALIHAATMVAAGIFLVARLIPLFIVIPHIMNL
+                     IFLVGIITVLLGATLALAQKDIKRGLAYSTMSQLGYMMLALGMGSYRSALFHLITHAY
+                     SKALLFLGSGSVIHSMETLVGYSPKKSQNMVFMGGLTKHVPITKTSFLLGTLSLCGIP
+                     PLACFWSKDEILNDTWLYSPIFAIIAWSTAGLTAFYMFRIYLLTFEGHLNVHFQNYKN
+                     TPFYSISLWGKEGSKRINKNFPLLTLLTMNNHEIASFFSKKTYQIDQNVRNITQPFIT
+                     ITYFGNKNIFSYPYESDNTMLFPILVLVLFTLFIGFLGIPFNQEGVNLDILSKWLTPS
+                     INLLHQNLNNFNLIDWYEFSKDAIFSVSIAFFGMFIASFLYKPVYSSLQNLDFINSFV
+                     KTGTKR"
+ORIGIN      
+        1 gttcctatgt taataggagt gggacttctt ctttttccga cggcaacaaa aaatattcgt
+       61 cgtatgtggg cttttcagag tattttattg ttaagtatag tcatgatttt ttcgatcaat
+      121 ctgtctattc agcaaataaa tagcagttct atctatcaat atgtgtggtc ttggatcatc
+      181 aataatgatt tttctttaga attcggctac ttgatcgacc cacttacttc tattatgtca
+      241 atattaatta ctactgttgg aattgtggtt cttgtttata gtgataatta tatgtctcat
+      301 gatcaaggat atttgagatt tttcgcttat atgagttttt tcagtacttc tatgttagga
+      361 ttagttacta gttctaattt gatacaaatt tatatttttt gggaattagt cggaatgtgt
+      421 tcgtatctat taatagggtt ttggttcaca cgacctgttg cggcaaatgc ttgccaaaag
+      481 gcgtttgtaa ctaatcgtgt cggtgatttt ggtttattat tgggaatttt aggtttttat
+      541 tggataacag gtagtttcga atttcgagat ttattcaaaa tattcagtaa cttgatttat
+      601 aataatgaag taaatttttt atttgttact ttgtgtgccg ttctattatt tgccggtgcg
+      661 gttgctaaat ctgcacaatt ccctcttcat gtatggttac ctgatgccat ggaggggcct
+      721 actcctattt cagctcttat acatgctgct actatggtag cagcgggaat ttttcttgta
+      781 gctaggctta ttcctctttt catagtcatc cctcacataa tgaatttaat ctttttggta
+      841 gggataataa cagtattatt aggagctact ttagcccttg ctcaaaaaga cattaagaga
+      901 ggtttagcct attccacaat gtctcaattg ggttatatga tgttagcttt aggtatgggg
+      961 tcttatcgaa gtgctttatt tcatttgatt actcatgctt attcgaaagc attattgttt
+     1021 ttaggatccg gatccgttat tcattcaatg gaaactcttg ttggatattc tccaaagaaa
+     1081 agccagaata tggtttttat ggggggttta acaaagcatg tgccaattac caaaacgtct
+     1141 tttttattag gtacactttc tctttgtggt attccgcctc ttgcttgttt ttggtccaag
+     1201 gatgaaattc ttaatgatac ttggttgtat tcaccaattt tcgcaataat agcttggtct
+     1261 acagcgggat taaccgcatt ttatatgttt cgaatctatt tacttacttt tgaaggacat
+     1321 ttaaacgttc attttcaaaa ttacaaaaat acccccttct attcaatatc tctatggggt
+     1381 aaagaaggtt cgaaaaggat taataaaaat tttcctttat taactttatt aacaatgaat
+     1441 aatcatgaaa ttgcttcttt tttttcaaag aagacatatc aaattgatca gaatgtaaga
+     1501 aacatcacac aaccctttat tactattacc tattttggca ataagaatat tttttcatat
+     1561 ccttatgaat cagataatac tatgttattt cctatacttg tattggttct atttactttg
+     1621 ttcattggat tcctaggaat tcctttcaat caagaaggag tgaatttgga catattatca
+     1681 aaatggttaa ctccgtctat aaacctttta catcaaaatt tgaataattt taatttaata
+     1741 gattggtatg aattttcgaa agatgccatt ttttcagtta gtatagcttt ttttggaatg
+     1801 tttatagcct cctttttata taaacccgtt tattcatctt tgcaaaattt ggactttatt
+     1861 aactcgtttg ttaaaacagg tactaagaga a
+//
+

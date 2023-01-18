@@ -1,0 +1,63 @@
+LOCUS       KY675904                 561 bp    DNA     linear   VRT 01-AUG-2017
+DEFINITION  Tetraodontidae sp. 1 JP-2017 isolate RSFL561 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KY675904
+VERSION     KY675904.1
+KEYWORDS    .
+SOURCE      mitochondrion Tetraodontidae sp. 1 JP-2017
+  ORGANISM  Tetraodontidae sp. 1 JP-2017
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Tetraodontiformes; Tetradontoidea;
+            Tetraodontidae.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Isari,S., Pearman,J.K., Casas,L., Michell,C.T., Curdia,J.,
+            Berumen,M.L. and Irigoien,X.
+  TITLE     Exploring the larval fish community of the central Red Sea with an
+            integrated morphological and molecular approach
+  JOURNAL   PLoS ONE 12 (8), E0182503 (2017)
+   PUBMED   28771590
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Isari,S., Pearman,J.K. and Michell,C.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2017) Red Sea Research Center, King Abduallah
+            University of Science and Technology, KAUST, Thuwal 23955 6900,
+            Saudi Arabia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Tetraodontidae sp. 1 JP-2017"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RSFL561"
+                     /db_xref="taxon:1963750"
+                     /country="Saudi Arabia"
+                     /collection_date="2013"
+     gene            <1..>561
+                     /gene="COI"
+     CDS             <1..>561
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ASA33641.1"
+                     /translation="LLIRAELSQPGALLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGF
+                     GNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFILLLASSGVEAGAGTGWTVYPPLAGNL
+                     AHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAISQYQTPLFVWAVLITAVL
+                     LLLSLPVLAAGITMLLTDRNLNTTFF"
+ORIGIN      
+        1 ccttctcatt cgggctgaac tcagccaacc aggcgccctc ctaggcgatg accaaatcta
+       61 caatgtaatc gtcacagccc acgcattcgt aataatcttc tttatagtaa tgccaatcat
+      121 gattggcgga ttcggaaact gactggtacc tcttataatc ggagcccctg acatagcgtt
+      181 ccctcgaatg aacaacatga gcttctgact actccctccc tccttcattc tcctactggc
+      241 atcctccggc gtagaagccg gagctggtac gggctgaacc gtctaccccc cactagcggg
+      301 caacttagcc cacgccggtg catccgttga cctcaccatc ttctctttac acttagccgg
+      361 tgtttcatct attctggggg ccattaactt tatcactaca attatcaaca taaaaccccc
+      421 agccatttct cagtaccaaa cacccctctt cgtgtgagct gtcttaatca ctgctgtcct
+      481 cctcctgctg tccctacctg tcctcgcagc gggcattaca atactcctta cagatcgaaa
+      541 cctaaacacc accttctttg a
+//
+

@@ -1,0 +1,79 @@
+LOCUS       AB725596                2057 bp    DNA     linear   BCT 12-MAR-2013
+DEFINITION  Mycoplasma sp. Bear genes for 16S rRNA, 16S-23S rRNA intergenic
+            spacer, complete and partial sequence.
+ACCESSION   AB725596
+VERSION     AB725596.1
+KEYWORDS    .
+SOURCE      Mycoplasma sp. Bear
+  ORGANISM  Mycoplasma sp. Bear
+            Bacteria; Tenericutes; Mollicutes; Mycoplasmataceae; Mycoplasma.
+REFERENCE   1
+  AUTHORS   Iso,T., Suzuki,J., Sasaoka,F., Sashida,H., Watanabe,Y.,
+            Fujihara,M., Nagai,K. and Harasawa,R.
+  TITLE     Hemotropic mycoplasma infection in wild black bears (Ursus
+            thibetanus japonicus)
+  JOURNAL   Vet. Microbiol. 163 (1-2), 184-189 (2013)
+   PUBMED   23313325
+  REMARK    DOI:10.1016/j.vetmic.2012.12.016
+REFERENCE   2  (bases 1 to 2057)
+  AUTHORS   Iso,T., Suzuki,J., Sasaoka,F., Sashida,H., Watanabe,Y.,
+            Fujihara,M., Nagai,K. and Harasawa,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2012) Contact:Takehiro Iso Iwate University,
+            Laboratory of Veterinary Microbiology; Ueda 3-18-8, Morioka, Iwate
+            0208550, Japan
+FEATURES             Location/Qualifiers
+     source          1..2057
+                     /organism="Mycoplasma sp. Bear"
+                     /mol_type="genomic DNA"
+                     /strain="Bear"
+                     /isolation_source="blood of black bear"
+                     /host="Ursus thibetanus"
+                     /db_xref="taxon:1198041"
+                     /country="Japan: Iwate"
+                     /collection_date="2011"
+                     /PCR_primers="fwd_name: Ana F1, fwd_seq:
+                     agagtttgatcctggctcag, rev_name: Hemo16-23S-R1, rev_seq:
+                     cagtacttgttcactatcggta"
+     rRNA            1..1491
+                     /product="16S ribosomal RNA"
+     misc_RNA        1492..>2057
+                     /note="16S-23S rRNA intergenic spacer"
+ORIGIN      
+        1 gaccttggct tcggccttgg ttagtggcaa acgggtgagt aatacatatc taacatgccc
+       61 ctctgtgggg gatagccgct tgaaaaagcg attaataccc cataggaagc tttatccatg
+      121 atttagcttt taaagcctta cggcgctgag ggattgggat atgctctatt agcttgttgg
+      181 cgggataaaa gcccaccaag gcaatgatag atagctggtc ttagaggatg aacagccaca
+      241 atgggattga gatacggccc atattcctac gggaagcagc agtagggaat cttccacaat
+      301 ggacgaaagt ctgatggagc aataccatgt gaacgatgaa ggcctttttg gttgtaaagt
+      361 tcttttacga gggataatta tgatagtact tcgtgaataa gtgacagcaa actatgtgcc
+      421 agcagctgcg gtaatacata ggtcgcgagc attattcgga tttattgggc gtaaagcaag
+      481 cgcaggcgga tgtgtaagtt ctgtgttaaa tgcagctact caatagttgt atgcaccgaa
+      541 tactacatgt ctagattgtg gtagggagtt tcggaattaa gcatggagcg gtggaatgtg
+      601 tagatatgct taagaacacc agaggcgaag gcggaaactt aggccataaa tgacgcttag
+      661 gcttgaaagt gtggggagca aatgggatta gataccccag tagtccacac cgtaaacgat
+      721 gggtattaga tattagggtt ttagctttag tgttgtagct tacgcgttaa ataccccgcc
+      781 tgggtagtac atatgcaaat atgaaactca aaggaattga cggggacctg aacaagtggt
+      841 ggagcatgtt gcttaattcg ataatacacg aaaaacctta ccaaggtttg acatccctcg
+      901 caaagctata gaaatatagt ggaggttatc gaggtgacag gtggtgcatg gctgtcgtca
+      961 gctcgtgtct tgagatgttt ggttaagtcc cgcaacgagc gcaaccccac tctttagtta
+     1021 cttttctaaa gagactgcac agtaatgtag aggaaggatg ggatcacgtc aagtcatcat
+     1081 gccccttatg ccttgggctg caaacgtgct acaatggcga acacaatgtg ttgcaaacca
+     1141 gcgatggtaa gctaatcacc aaatttcgtc tcagttcgga taggaggctg caattcgcct
+     1201 ccttgaagtt ggaatcacta gtaatcccgt gtcagctata tcggggtgaa tccgttccca
+     1261 ggtcttgtac acaccgcccg tcaaactatg agaggagtgg gcatttaaaa atacattcgt
+     1321 ttgtatctag agtgaacatt ctgattggag ttaagtcgta acaaggtacc cgtacgagaa
+     1381 cgtgcgggtg gataatcttc aaattacgag atgatagggc ctttttaggc tttatttaga
+     1441 aaaggttgta actagaataa atccaatatc cataaggatt tggaagcttc taggcggacg
+     1501 attctcagtt ttgagaaagc tagaactttc tcagattgct ttttgaaagg aaaagataat
+     1561 aaccgagtta acttaatagt tagtcatacg taaattatta agagctatag gtggatttct
+     1621 tggaaatggt aggctatgaa ggacgtgcca atctgcgata agctaggggt agccgataag
+     1681 aggctttgat ccctagatct ccgaatgtag aaatacaaca tttcgaaaga tttgttattt
+     1741 atcggccaat caataaccga taaaggtgaa cctcgtgaag tgaaacatct cagtagcgag
+     1801 aggaaaagaa agcgaatgcg attccctcag tagtggtgag cgaaagggga ccaggccaaa
+     1861 ccggtttttc cggggttgta ggacattctt ttagagtccg gaatatagga gaagtctttg
+     1921 gaaaaagacg gcatagaggg cgatcccccc gtatccgaca tgttcttgac ttttgagtgt
+     1981 atcctgagta gggcgggaca cgtgtaatcc tgtctgaatc tgcccagacc attgggtaag
+     2041 cctaaatact aaccatt
+//
+
